@@ -94,10 +94,6 @@ void menu::Catalogos()
         cout << "\t\t\t|     Menu de Catalogos         |" << endl;
         cout << "\t\t\t+-------------------------------+" << endl;
         cout << "\t\t\t| 1. Peliculas                 |" << endl;
-        cout << "\t\t\t| 2. Equipo                     |" << endl;
-        cout << "\t\t\t| 3. Pais                       |" << endl;
-        cout << "\t\t\t| 4. Puesto                     |" << endl;
-        cout << "\t\t\t| 5. Jugador                    |" << endl;
         cout << "\t\t\t| 6. Usuarios                   |" << endl;
         cout << "\t\t\t| 7. Regresar al Menu           |" << endl;
         cout << "\t\t\t| 8. Salir del Programa         |" << endl;
@@ -119,39 +115,22 @@ void menu::Catalogos()
             break;
         case 2:
         {
-            equipo equipaso;
-            equipaso.menu();
-        }
-            break;
-        case 3:
-        {
-            pais paiss;
-            paiss.menu();
-        }
-            break;
-        case 4:
-         {
-            puesto puestazo;
-            puestazo.menu();
-        }
-            break;
-        case 5:
-        {
-            jugador juega;
-            juega.menu();
-        }
-            break;
-        case 6  :
-        {
             usuarios usu;
             usu.menu();
         }
             break;
-        case 7:
+        case 3:
+        {
             MenuGeneral();
-        case 8:
+        }
+            break;
+        case 4:
+         {
             exit(0);
             break;
+        }
+            break;
+
         default:
             cout << "\n\t Opcion invalida...Por favor prueba otra vez..";
             cin.ignore();

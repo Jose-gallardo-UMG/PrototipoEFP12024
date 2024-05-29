@@ -101,7 +101,7 @@ void entrenador::menu()
     {
         cout << "\n";
         cout << "\t\t\t-------------------------------" << endl;
-        cout << "\t\t\t|   Catalogo de Entrenador     |" << endl;
+        cout << "\t\t\t|   Catalogo de Peliculas      |" << endl;
         cout << "\t\t\t-------------------------------" << endl;
         cout << "\t\t\t 1. Insertar                   |" << endl;
         cout << "\t\t\t 2. Desplegar                  |" << endl;
@@ -164,12 +164,12 @@ void entrenador::insertar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2003", "ENTREI");
+    bitacora.ingresoBitacora(usuarioActual, "2003", "Pel");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|                                          |" << endl;
-    cout << "\t|        Agregar detalles del Entrenador   |" << endl;
+    cout << "\t|        Agregar datos de pelicula         |" << endl;
     cout << "\t|                                          |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";
@@ -178,29 +178,29 @@ void entrenador::insertar()
     Entrenador entrenador;
     int numAleatorio = (rand() % 9998) + 1;
 
-    string idString = "entre-" + to_string(numAleatorio);
+    string idString = "pel-" + to_string(numAleatorio);
 
     for (int i = 0; i < idString.length(); ++i) {
         entrenador.id[i] = idString[i];
     }
     entrenador.id[idString.length()] = '\0';
 
-    cout<<"        -> Generando codigo del entrenador: " << entrenador.id<<endl;
+    cout<<"        -> Generando codigo de pelicula: " << entrenador.id<<endl;
     cin.ignore();
 
-    cout<<"        -> Ingrese el 1er. nombre del entrenador: ";
+    cout<<"        -> Ingrese Nombre de pelicula: ";
     cin.getline(entrenador.nom1, 45);
 
-    cout<<"        -> Ingrese el 2do. nombre del entrenador: ";
+    cout<<"        -> Ingrese clasificacion de pelicula: ";
     cin.getline(entrenador.nom2, 45);
 
-    cout<<"        -> Ingrese el 1er. apellido del entrenador: ";
+    cout<<"        -> Ingrese Genero de pelicula: ";
     cin.getline(entrenador.ape1, 45);
 
-    cout<<"        -> Ingrese el 2do. apellido del entrenador: ";
+    cout<<"        -> Subtitulos de pelicula: ";
     cin.getline(entrenador.ape2, 45);
 
-    cout<<"        -> Ingrese fecha de naciemineto del entrenador: ";
+    cout<<"        -> Idioma de pelicula: ";
     cin.getline(entrenador.fechan, 45);
 
 
@@ -217,12 +217,12 @@ void entrenador::desplegar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2004", "ENTRED");
+    bitacora.ingresoBitacora(usuarioActual, "2004", "PELD");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|                                          |" << endl;
-    cout << "\t|          Ver detalles del Entrenador     |" << endl;
+    cout << "\t|          Ver detalles de pelicula        |" << endl;
     cout << "\t|                                          |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";
@@ -238,12 +238,12 @@ void entrenador::desplegar()
 
         while (archivo.read(reinterpret_cast<char*>(&entrenador), sizeof(Entrenador)))
         {
-            cout<<"       -> Codigo del entrenador: "<< entrenador.id << endl;
-            cout<<"       -> 1er. Nombre del entrenador: "<< entrenador.nom1 << endl;
-            cout<<"       -> 2do. Nombre del entrenador: "<< entrenador.nom2 << endl;
-            cout<<"       -> 1er. Apellido del entrenador: "<< entrenador.ape1 << endl;
-            cout<<"       -> 2er. Apellido del entrenador: "<< entrenador.ape2 << endl;
-            cout<<"       -> Fecha de nacimiento del entrenador: "<< entrenador.fechan << endl;
+            cout<<"       -> Codigo de pelicula: "<< entrenador.id << endl;
+            cout<<"       -> nombre de pelicula: "<< entrenador.nom1 << endl;
+            cout<<"       -> clasificacion de pelicula: "<< entrenador.nom2 << endl;
+            cout<<"       -> Ingrese Genero de pelicula: "<< entrenador.ape1 << endl;
+            cout<<"       -> Subtitulos de pelicula: "<< entrenador.ape2 << endl;
+            cout<<"       -> Idioma de pelicula: "<< entrenador.fechan << endl;
             cout << "     +-----------------------------------------------+" << endl;
             cout << "\n";
         }
@@ -259,12 +259,12 @@ void entrenador::modificar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2005", "ENTREM");
+    bitacora.ingresoBitacora(usuarioActual, "2005", "PELM");
 
     cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|                                          |" << endl;
-    cout << "\t|      Modificar detalles del Entrenador   |" << endl;
+    cout << "\t|      Modificar detalles de pelicula      |" << endl;
     cout << "\t|                                          |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";
@@ -279,7 +279,7 @@ void entrenador::modificar()
         cout << "\n";
         return;
     }
-    cout << "       -> Ingrese el codigo del entrenador: ";
+    cout << "       -> Ingrese el codigo de pelicula: ";
     cin >> idEntre;
 
     Entrenador entrenador;
@@ -291,17 +291,17 @@ void entrenador::modificar()
             cout << "\n" << endl;
             cout << "           Puesto encontrado con exito!" << endl;
             cout << "\n" << endl;
-            cout<<"        -> Ingrese codigo del entrenador: ";
+            cout<<"        -> Ingrese codigo de pelicula: ";
             cin >> entrenador.id;
-            cout<<"        -> Ingrese el 1er. nombre del entrenador: ";
+            cout<<"        -> Ingrese nombre de pelicula : ";
             cin >> entrenador.nom1;
-            cout<<"        -> Ingrese el 2do. nombre del entrenador: ";
+            cout<<"        -> Ingrese clasificacion de pelicula: ";
             cin >> entrenador.nom2;
-            cout<<"        -> Ingrese el 1er. apellido del entrenador: ";
+            cout<<"        -> Ingrese genero de pelicula: ";
             cin >> entrenador.ape1;
-            cout<<"        -> Ingrese el 2do. apellido del entrenador: ";
+            cout<<"        -> Ingrese subtitulos de pelicula: ";
             cin >> entrenador.ape2;
-            cout<<"        -> Ingrese fecha de naciemineto del entrenador: ";
+            cout<<"        -> Ingrese idioma de pelicula: ";
             cin >> entrenador.fechan;
              cout << "\n" << endl;
 
@@ -327,7 +327,7 @@ void entrenador::borrar()
 {
     string usuarioActual = Login::getUsuarioActual();
     Bitacora bitacora;
-    bitacora.ingresoBitacora(usuarioActual, "2006", "ENTREB");
+    bitacora.ingresoBitacora(usuarioActual, "2006", "PELB");
 
 	cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
@@ -351,7 +351,7 @@ void entrenador::borrar()
 
 	Entrenador entrenador;
 
-    cout<<"       -> Ingrese el codigo del entrenador: ";
+    cout<<"       -> Ingrese de pelicula: ";
     cin>>idEntre;
 
     bool resta = false;
@@ -378,13 +378,13 @@ void entrenador::borrar()
 		if (resta)
         {
         cout << "\n" << endl;
-        cout << "       -> Entrenador eliminado con exito." << endl;
+        cout << "       -> pelicula eliminada con exito." << endl;
         cout << "\n";
         }
         else
         {
         cout << "\n" << endl;
-        cout << "       -> No se a podido encontrar al entrenador" << endl;
+        cout << "       -> No se a podido encontrar pelicula" << endl;
         cout << "\n";
         }
 }

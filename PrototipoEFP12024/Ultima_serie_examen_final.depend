@@ -841,3 +841,191 @@
 	"Login.h"
 	"Bitacora.h"
 
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\menu.h
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\usuarios.h
+	<iostream>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\equipo.h
+	<iostream>
+
+1716998708 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\entrenador.h
+	<iostream>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\jugador.h
+	<iostream>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716998660 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Result.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+	<reportbit.h>
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\pais.h
+	<iostream>
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\puesto.h
+	<iostream>
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\result.h
+	"equipo.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\resultados.h
+	"equipo.h"
+	<string>
+	"resultados.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\reportbit.h
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\procesos.cpp
+	"Procesos.h"
+
+1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\procesos.h
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\reportbit.cpp
+	"reportbit.h"
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+
+1716998042 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\result.cpp
+	"Result.h"
+	"login.h"
+	"equipo.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<iomanip>
+	<string>
+
+1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716999073 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+

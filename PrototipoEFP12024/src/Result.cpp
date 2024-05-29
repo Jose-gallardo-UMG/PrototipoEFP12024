@@ -30,7 +30,7 @@ void Result::Marcador() {
 	cout << "\n";
     cout << "\t+------------------------------------------+" << endl;
     cout << "\t|                                          |" << endl;
-    cout << "\t|       Ver detalles del Partido           |" << endl;
+    cout << "\t|       Ver detalles de la pelicula           |" << endl;
     cout << "\t|                                          |" << endl;
     cout << "\t+------------------------------------------+" << endl;
     cout << "\n";
