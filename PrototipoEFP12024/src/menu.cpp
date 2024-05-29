@@ -94,9 +94,9 @@ void menu::Catalogos()
         cout << "\t\t\t|     Menu de Catalogos         |" << endl;
         cout << "\t\t\t+-------------------------------+" << endl;
         cout << "\t\t\t| 1. Peliculas                 |" << endl;
-        cout << "\t\t\t| 6. Usuarios                   |" << endl;
-        cout << "\t\t\t| 7. Regresar al Menu           |" << endl;
-        cout << "\t\t\t| 8. Salir del Programa         |" << endl;
+        cout << "\t\t\t| 2. Usuarios                   |" << endl;
+        cout << "\t\t\t| 3. Regresar al Menu           |" << endl;
+        cout << "\t\t\t| 4. Salir del Programa         |" << endl;
         cout << "\t\t\t+-------------------------------+" << endl;
         cout << "\n" << endl;
 

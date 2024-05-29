@@ -51,11 +51,8 @@
 		<Unit filename="src/Result.cpp" />
 		<Unit filename="src/bitacora.cpp" />
 		<Unit filename="src/entrenador.cpp" />
-		<Unit filename="src/equipo.cpp" />
-		<Unit filename="src/jugador.cpp" />
 		<Unit filename="src/login.cpp" />
 		<Unit filename="src/menu.cpp" />
-		<Unit filename="src/pais.cpp" />
 		<Unit filename="src/puesto.cpp" />
 		<Unit filename="src/reportbit.cpp" />
 		<Unit filename="src/usuarios.cpp" />
