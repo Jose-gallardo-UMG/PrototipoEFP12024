@@ -1,0 +1,843 @@
+# depslib dependency file v1.0
+1716861210 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716663477 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\menu.h
+
+1716866113 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+
+1716861179 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716673801 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\entrenador.h
+	<iostream>
+
+1716866113 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716864765 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\equipo.h
+	<iostream>
+
+1716861645 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716845709 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\jugador.h
+	<iostream>
+
+1716861496 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716845174 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\pais.h
+	<iostream>
+
+1716861589 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716845560 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\puesto.h
+	<iostream>
+
+1716861730 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716858103 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\usuarios.h
+	<iostream>
+
+1716859962 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716866524 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716857677 c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716860281 source:c:\users\oskar\onedrive\escritorio\tercer semestre\programación i\3er. semestre programas de codeblocks\ultima_serie_examen_final\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716939937 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716940910 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\menu.h
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716941203 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\usuarios.h
+	<iostream>
+
+1716941203 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\entrenador.h
+	<iostream>
+
+1716942894 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716946777 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\equipo.h
+	<iostream>
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\jugador.h
+	<iostream>
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\pais.h
+	<iostream>
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939938 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\puesto.h
+	<iostream>
+
+1716939938 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716944848 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+
+1716941554 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\procesos.cpp
+	"Procesos.h"
+
+1716941554 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\procesos.h
+
+1716943539 source:d:\ultima_serie_examen_final\ultima_serie_examen_final\src\resultados.cpp
+	"resultados.h"
+	<iostream>
+
+1716943539 d:\ultima_serie_examen_final\ultima_serie_examen_final\include\resultados.h
+	"equipo.h"
+	<string>
+	"resultados.h"
+
+1716939938 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716940912 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\menu.h
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716941204 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\usuarios.h
+	<iostream>
+
+1716941204 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\entrenador.h
+	<iostream>
+
+1716948940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716948940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\equipo.h
+	<iostream>
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\jugador.h
+	<iostream>
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716944850 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\pais.h
+	<iostream>
+
+1716939940 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\puesto.h
+	<iostream>
+
+1716943540 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\resultados.h
+	"equipo.h"
+	<string>
+	"resultados.h"
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716941556 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\procesos.cpp
+	"Procesos.h"
+
+1716941556 c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\include\procesos.h
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 source:c:\users\josue\onedrive\escritorio\practica parcial 3\ultima_serie_examen_final\ultima_serie_examen_final\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716939938 source:d:\prototipop1ef2024\ultima_serie_examen_final\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716958052 d:\prototipop1ef2024\ultima_serie_examen_final\include\menu.h
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716941204 d:\prototipop1ef2024\ultima_serie_examen_final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\usuarios.h
+	<iostream>
+
+1716941204 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716954781 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\entrenador.h
+	<iostream>
+
+1716958765 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716948940 d:\prototipop1ef2024\ultima_serie_examen_final\include\equipo.h
+	<iostream>
+
+1716954866 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\jugador.h
+	<iostream>
+
+1716959517 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716960769 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Result.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+	<reportbit.h>
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\pais.h
+	<iostream>
+
+1716939940 d:\prototipop1ef2024\ultima_serie_examen_final\include\puesto.h
+	<iostream>
+
+1716943540 d:\prototipop1ef2024\ultima_serie_examen_final\include\resultados.h
+	"equipo.h"
+	<string>
+	"resultados.h"
+
+1716951722 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716941556 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\procesos.cpp
+	"Procesos.h"
+
+1716941556 d:\prototipop1ef2024\ultima_serie_examen_final\include\procesos.h
+
+1716951398 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716951398 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
+1716958052 d:\prototipop1ef2024\ultima_serie_examen_final\include\reportbit.h
+
+1716958074 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\reportbit.cpp
+	"reportbit.h"
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+
+1716961617 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\result.cpp
+	"Result.h"
+	"login.h"
+	"equipo.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<iomanip>
+	<string>
+
+1716958765 d:\prototipop1ef2024\ultima_serie_examen_final\include\result.h
+	"equipo.h"
+
+1716960447 source:d:\prototipop1ef2024\ultima_serie_examen_final\src\equipo2.cpp
+	"equipo2.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716960549 d:\prototipop1ef2024\ultima_serie_examen_final\include\equipo2.h
+	<iostream>
+
+1716939938 source:d:\umg\programacion1\material final\ultima_serie_examen_final\main.cpp
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<conio.h>
+	<unistd.h>
+	"menu.h"
+	"Login.h"
+
+1716958052 d:\umg\programacion1\material final\ultima_serie_examen_final\include\menu.h
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\login.h
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<ctime>
+	<cstring>
+	"Bitacora.h"
+	"usuarios.h"
+
+1716941204 d:\umg\programacion1\material final\ultima_serie_examen_final\include\bitacora.h
+	<iostream>
+	<fstream>
+	<string>
+	<ctime>
+	<cstring>
+	"usuarios.h"
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\usuarios.h
+	<iostream>
+
+1716941204 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\bitacora.cpp
+	<cstring>
+	"Bitacora.h"
+	"Login.h"
+
+1716954781 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\entrenador.cpp
+	"entrenador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\entrenador.h
+	<iostream>
+
+1716958765 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\equipo.cpp
+	"equipo.h"
+	"bitacora.h"
+	"login.h"
+	"entrenador.h"
+	<entrenador.h>
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716948940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\equipo.h
+	<iostream>
+
+1716954866 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\jugador.cpp
+	"jugador.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\jugador.h
+	<iostream>
+
+1716959517 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\login.cpp
+	"Login.h"
+	"Bitacora.h"
+	"conio.h"
+
+1716960769 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\menu.cpp
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Result.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+	<reportbit.h>
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\pais.h
+	<iostream>
+
+1716939940 d:\umg\programacion1\material final\ultima_serie_examen_final\include\puesto.h
+	<iostream>
+
+1716958765 d:\umg\programacion1\material final\ultima_serie_examen_final\include\result.h
+	"equipo.h"
+
+1716943540 d:\umg\programacion1\material final\ultima_serie_examen_final\include\resultados.h
+	"equipo.h"
+	<string>
+	"resultados.h"
+
+1716958052 d:\umg\programacion1\material final\ultima_serie_examen_final\include\reportbit.h
+
+1716951722 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\pais.cpp
+	"pais.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716941556 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\procesos.cpp
+	"Procesos.h"
+
+1716941556 d:\umg\programacion1\material final\ultima_serie_examen_final\include\procesos.h
+
+1716951398 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\puesto.cpp
+	"puesto.h"
+	"bitacora.h"
+	"login.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<iomanip>
+	<string>
+
+1716958074 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\reportbit.cpp
+	"reportbit.h"
+	"menu.h"
+	"entrenador.h"
+	"equipo.h"
+	"jugador.h"
+	"pais.h"
+	"puesto.h"
+	"usuarios.h"
+	"Bitacora.h"
+	"Login.h"
+	<iostream>
+	<windows.h>
+	<resultados.h>
+
+1716961617 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\result.cpp
+	"Result.h"
+	"login.h"
+	"equipo.h"
+	"Bitacora.h"
+	<iostream>
+	<fstream>
+	<stdlib.h>
+	<cstdlib>
+	<conio.h>
+	<ctime>
+	<iomanip>
+	<string>
+
+1716951398 source:d:\umg\programacion1\material final\ultima_serie_examen_final\src\usuarios.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	"usuarios.h"
+	"Login.h"
+	"Bitacora.h"
+
