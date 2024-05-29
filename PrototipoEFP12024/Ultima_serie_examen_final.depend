@@ -841,7 +841,7 @@
 	"Login.h"
 	"Bitacora.h"
 
-1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\main.cpp
+1717000290 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\main.cpp
 	<iostream>
 	<windows.h>
 	<cstdlib>
@@ -914,12 +914,12 @@
 1716997903 d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\include\jugador.h
 	<iostream>
 
-1716997903 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\login.cpp
+1716999855 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\login.cpp
 	"Login.h"
 	"Bitacora.h"
 	"conio.h"
 
-1716998660 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\menu.cpp
+1716999603 source:d:\umg\programacion1\final\prototipoefp12024\prototipoefp12024\src\menu.cpp
 	"menu.h"
 	"entrenador.h"
 	"equipo.h"

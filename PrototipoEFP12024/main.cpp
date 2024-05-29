@@ -1,4 +1,4 @@
-//Jose Eduardo Gallardo DEl Cid
+//Jose Eduardo Gallardo Del Cid
 //Examen final
 //carnet 9959-23-106
 #include <iostream>
