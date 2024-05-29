@@ -48,7 +48,7 @@ bool Login::validacion() {
     cout << "\n";
     cout << "+---------------------------------------------+" << endl;
     cout << "|                                             |" << endl;
-    cout << "|      Bienvenido al sistema Polideportivo    |" << endl;
+    cout << "|            Bienvenido cinemax               |" << endl;
     cout << "|                                             |" << endl;
     cout << "+---------------------------------------------+" << endl;
     cout << "\n";

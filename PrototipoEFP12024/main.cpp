@@ -1,3 +1,6 @@
+//Jose Eduardo Gallardo DEl Cid
+//Examen final
+//carnet 9959-23-106
 #include <iostream>
 #include <windows.h>
 #include <cstdlib>
